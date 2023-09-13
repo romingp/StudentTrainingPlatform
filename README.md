@@ -1,2 +1,2 @@
 # StudentTrainingPlatform
-# StudentTrainingPlatform
+

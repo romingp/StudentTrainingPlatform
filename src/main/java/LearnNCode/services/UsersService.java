@@ -1,0 +1,13 @@
+package LearnNCode.services;
+
+import LearnNCode.entities.Users;
+
+public interface UsersService {
+
+	String addUser(Users user);
+	Users findUserByEmail(String email);
+	
+	boolean checkEmail(String email);
+	
+	String saveUsers(Users user);
+}
